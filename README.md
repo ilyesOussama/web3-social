@@ -10,6 +10,9 @@ I will add authentication, follow, like, comment and mirror functionalities soon
 ## Great Resourses to learn about lens protocol:
 
 [Lens docs](https://docs.lens.xyz/docs)
+
 [Developer Quickstart](https://docs.lens.xyz/docs)
+
 [Nader Dabit video tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs&)
+
 [Nader Dabit Github repo (auth,posting)](https://github.com/dabit3/lens-create-publication-example)
