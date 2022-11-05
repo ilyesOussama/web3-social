@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { ethers } from "ethers";
-import { client, challenge, authenticate } from "../api";
+import { client, challenge, authenticate } from "./api";
 
 export default function Home() {
   const [address, setAddress] = useState();
