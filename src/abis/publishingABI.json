@@ -1,0 +1,11 @@
+[
+  { "inputs": [], "name": "CannotCommentOnSelf", "type": "error" },
+  { "inputs": [], "name": "CollectModuleNotWhitelisted", "type": "error" },
+  { "inputs": [], "name": "FollowModuleNotWhitelisted", "type": "error" },
+  { "inputs": [], "name": "HandleContainsInvalidCharacters", "type": "error" },
+  { "inputs": [], "name": "HandleLengthInvalid", "type": "error" },
+  { "inputs": [], "name": "HandleTaken", "type": "error" },
+  { "inputs": [], "name": "ProfileImageURILengthInvalid", "type": "error" },
+  { "inputs": [], "name": "PublicationDoesNotExist", "type": "error" },
+  { "inputs": [], "name": "ReferenceModuleNotWhitelisted", "type": "error" }
+]
