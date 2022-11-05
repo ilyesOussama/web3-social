@@ -5,7 +5,7 @@ const Home = () => {
     <div>
       <h1 className="text-5xl mb-6 font-bold">Web3 Social</h1>
       <p className="text-2xl mb-5">
-        This is a (meni) social media application, built using Lens Protocol
+        This is a (mini) social media application, built using Lens Protocol
         API, Next.js, GraphQL and other technologies.
       </p>
       <p className="text-2xl mb-4">
