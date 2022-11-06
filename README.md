@@ -2,8 +2,8 @@
 
 This is a (mini) social media application, built using Lens Protocol API, Next.js, GraphQL and other technologies.
 
-You can see the latest publications [here](http://localhost:3000/explore).  
-you can find lens profiles [here](http://localhost:3000/profiles).
+You can see the latest publications [here](https://web3-social-chi.vercel.app/explore).
+you can find lens profiles [here](https://web3-social-chi.vercel.app/profiles).
 
 I will add authentication, follow, like, comment and mirror functionalities soon.
 
