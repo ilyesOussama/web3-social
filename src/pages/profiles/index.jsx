@@ -1,9 +1,5 @@
 import { useEffect, useState } from "react";
 import { client, exploreProfiles } from "../api/api";
-import Link from "next/link";
-import Image from "next/image";
-import ThemeButton from "../../components/ThemeButton";
-import getProfilePicture from "../../utils/getProfilePicture";
 import ProfileCard from "../../components/ProfileCard";
 
 const Profiles = () => {
